@@ -181,3 +181,7 @@ if (window.location.pathname === '/notes') {
 }
 
 getAndRenderNotes();
+
+const handleNoteSave = () => {
+  
+}
